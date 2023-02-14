@@ -1,0 +1,246 @@
+*{
+    margin: 0;
+}
+@font-face{
+    font-family: Skido-fonts;
+    src: url("../PlusJakartaSans-VariableFont_wght.ttf");
+}
+
+.div-for-nav{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 7%;
+    margin-top: 3%;
+    margin-bottom: 5%;
+}
+.div-for-menu{
+    display: flex;
+    gap: 40px ;
+}
+.div-logo{
+margin-right: 100px;
+}
+
+.div-for-right-menu-items{
+    margin-left: auto;
+    display: flex;
+    gap: 50px;
+}
+.div-for-nav p{
+    font-weight: 700;
+    font-size: 18px;
+    font-family: Skido-fonts;
+}
+.nav-page a {
+    text-decoration: none;
+
+}
+.div-for-nav a{
+    text-decoration: none;
+    color: #100D22;
+}
+.nav-page{
+    margin-left: 3%;
+    margin-top: 3%;
+    display: flex;
+    gap: 3px;
+}
+
+.all-2{
+    color: #100D22;
+    font-family: Skido-fonts;
+    font-weight: 700;
+    font-size: 11px;
+}
+.landing-page-text a{
+    text-decoration: none;
+}
+.sam{
+    color: #878690;
+    font-family: Skido-fonts;
+    font-weight: 700;
+    font-size: 11px;
+}
+.box{
+    width: 60%;
+    height: 30px;
+    border:solid black 1px;
+    
+}
+
+.full-landing-page{
+    display: flex;
+    margin-left: 5%;
+    margin-right:19%;
+    
+}
+.landing-page-text1 h5{
+    margin-left: auto;
+}
+.nav2{
+    margin-bottom: 5%;
+}
+#images-color img{
+    width: 300px;
+    margin-right: 10%;
+}
+.landing-only-image img{
+    width: 750px;
+    padding-left: 10%;
+    padding-right: 6%;
+    padding-top: 6%;
+    margin-bottom: 5%;
+}
+.landing-last-text{
+    display: flex;
+    gap: 10px;
+}
+#images-color p{
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.line{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.landing-last-text p{
+    padding-left: 5%;
+    padding-top: 4%;
+    color: #495057;
+        font-weight: 700;
+        font-size: 16px;
+        font-family: sans-serif;
+    }
+    .all{
+        font-weight: 700;
+        font-size: 24px;
+        color:#182568;
+        font-family: Skido-fonts;
+        
+    }
+    .landing-page-text1 h6{
+        font-weight: 700;
+        font-size: 14px;
+        color:#182568;
+        font-family: sans-serif;
+    }
+    #images-color p{
+        font-size: 14px;
+        font-weight: 700;
+        color:#182568;
+        font-family: Skido-fonts;
+    
+    }
+    .landing-page-text p{
+        font-weight: 700;
+        font-size: 14px;
+        color:#182568;
+        font-family: Skido-fonts;
+    }
+    .line img{
+        width: 280px;
+    }
+    .span{
+     font-size: 15px;
+     font-size: 700;
+     color:  #100D22;
+     font-family: Skido-fonts;
+    
+    }
+    .landing-only-image a{
+        text-decoration: none;
+    }
+    .line p{
+        color: #DBDBDE;
+    }
+    .line-p{
+        color: #DBDBDE;
+    }
+    .text{
+        margin-bottom: 6%;
+        padding-left: 8%;
+        padding-right: 6%;   
+    }
+    .Footer-page{
+        display: flex;
+        margin-left: 10%;
+        margin-bottom: 10%;
+        gap: 120px;
+    }
+    .footer-item-1 img{
+        margin-bottom: 10%;
+    }
+    .Footer-page p{
+        color:#878690;
+        font-weight: 700;
+        font-family:Skido-fonts;
+        
+    }
+    .Footer-page h6{
+        color:#182568;
+        font-size: 13px;
+        font-weight: 700;
+        font-family:Skido-fonts;
+      
+    }
+    
+    .ehapa-j{
+        font-size: 13px;
+    }
+    .john {
+      font-size: 13px;
+    }
+    .jake{
+        font-size: 13px;
+    }
+    .jude{
+        font-size: 13px;
+    }
+    .ink{
+        font-size: 13px;
+    }
+    .ibadan{
+        font-size: 13px;
+    }
+    .this{
+        font-size: 13px;
+    }
+    .love{
+        font-size: 14px;
+    }
+    
+    .enter{
+        background-color: #F6F6F6;
+        border-radius: 100px;
+        padding:25px 40px 25px 40px;
+        
+    }
+    .sub{
+        background-color: #F6FB04;
+        border-radius: 50px;
+        padding: 22px 48px 22px 48px;
+    }
+    .Footer-page a{
+        text-decoration: none;
+        color: #878690; 
+        
+    }
+    .joe a{
+        padding-right: 30px;
+    
+    }
+    .lines2{
+        margin-left: 5%;
+    }
+    .lines2 p{
+        color:  #E5E5E5;
+    }
+    .lines2 h6{
+        font-family: Skido-fonts;
+        font-weight: 700;
+        font-size: 11px;
+        text-align: center;
+        color:#878690;
+        margin-bottom: 5%;
+        margin-top: 1%;
+    }
